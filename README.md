@@ -1,6 +1,4 @@
 # PRODIGY_DS_01
-# PRODIGY_DS_01
-
 ## Task-01: Population Distribution Visualization
 
 ###  Objective
@@ -15,12 +13,13 @@ For this task, we used **World Bank Population Data (1960–2025)**.
 - Python (Pandas, Matplotlib, Seaborn)  
 
 ###  Visualizations
-1. **Histogram of Population Distribution (2020)**  
-   - Shows how countries are distributed across population ranges.  
-   - Most countries fall below 50M population.
 
-2. **Bar Chart of Top 10 Most Populous Countries (2020)**  
-   - Highlights China, India, USA as global demographic leaders.
+#### Histogram of Population Distribution (2020)
+![Histogram](outputs/histogram.png)
+
+#### Bar Chart of Top 10 Most Populous Countries (2020)
+![Bar Chart](outputs/top10.png)
+
 
 ### Insights
 - Population distribution is highly skewed.  
